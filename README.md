@@ -1,2 +1,2 @@
-# flutter_application1
-beginning of building awesome flutter applications
+# Task_Planner
+flutter applications with SQlite Database connectivity 
